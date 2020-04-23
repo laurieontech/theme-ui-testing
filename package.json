@@ -1,0 +1,9 @@
+{
+  "name": "themes-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["gatsby-starter-blog-theme", "gatsby-theme-blog", "gatsby-plugin-theme-ui", "test-theme-ui"]
+
+}
